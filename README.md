@@ -2,7 +2,7 @@
 
 Custom [Create React App](https://github.com/facebook/create-react-app) template with built in CSS Module support, React 18+.
 
-To use this template, add `--template tssimple` when creating a new app.
+To use this template, add `--template file:./cra-template-tssimple` after cloning.
 
 For example:
 
